@@ -3,3 +3,5 @@ NextJS + Chakra UI youtube video thumbnail downloader
 
 
 If you want to see the source code send me an email at: ala.garbaa.pro@gmail.com for this private repo: https://github.com/ala-garbaa-pro/youtube-video-thumbnail-downloader, then I can add you as 'collaborator'.
+
+Live at: <a href="http://youtube-video-thumbnail-downloader.alagarbaa.com/" target="_blank">Youtube video thumbnail downloader</a>
